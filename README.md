@@ -1,8 +1,5 @@
 # Conway-s-Game-of-Life-Project
 
-###Video Demo: https://youtu.be/sCjneGqbD_w 
-
-###Description:
 
 A simulation of Conway's Game of Life. Conway's Game of Life is a fascinating zero-player game created by British mathematician John Horton Conway in 1970. 
 It's a cellular automaton, where an infinite grid of cells can be either "alive" or "dead," and their states evolve over time based on simple rules. These rules determine how cells change from one generation to the next: a living cell with two or three living neighbors survives, while fewer or more causes it to die; a dead cell with exactly three living neighbors becomes alive. 
